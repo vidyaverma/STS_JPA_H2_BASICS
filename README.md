@@ -1,0 +1,1 @@
+# STS_JPA_H2_BASICS
